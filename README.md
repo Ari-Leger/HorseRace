@@ -1,7 +1,7 @@
-##HorseRace
+## HorseRace
 **Algorithm** 
 
-##main()
+## main()
 ```
 functions take name of horse (number) and amount of horses
 Track position of horses inside array 
@@ -17,12 +17,12 @@ horse 4 >> 3
 horse 5 >> 4
 ```
 
-Advance()
+## Advance()
 ```
 roll a zero or one, add it to coin. 
   Add coin to horses' position in the array. 
 ```
-PrintLane()
+## PrintLane()
 ```
   given a horse number and the array of horses
   loop from zero to TRACK_LENGTH
@@ -32,7 +32,7 @@ PrintLane()
     print a .
 ```
 
-isWinner() 
+## isWinner() 
 ```
   result = false 
   given a horse number and the array of horses
