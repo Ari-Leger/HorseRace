@@ -1,6 +1,7 @@
 #HorseRace
 ** Algorithm ** 
 ```
+main()
 functions take name of horse (number) and amount of horses
 Track position of horses inside array 
 Create racetrack using 15 character array and name is TRACK_LENGTH 
